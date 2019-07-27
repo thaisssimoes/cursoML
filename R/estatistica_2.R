@@ -27,3 +27,8 @@ round(12 / 248 * 100)
 amostra <- strata(infert, c("education"), size = c(5,  48, 47), method = 'srswor')
 amostra
 dim(amostra)
+
+
+infert[amostra$ID_unit[1:5], ]
+
+       
