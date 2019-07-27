@@ -1,5 +1,5 @@
 #Criando um fator
-#Fatores contém levels e são objetos de calsses diferentes do vetor
+#Fatores contém levels e são objetos de classes e atributos, diferente do vetor
 
 #vetor
 estados <- c("RJ", "SP", "ES", "MG")
